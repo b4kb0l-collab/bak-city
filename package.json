@@ -1,0 +1,8 @@
+{
+  "name": "bak-city-rp",
+  "version": "1.0.0",
+  "description": "BAK CITY RP — онлайн-сервер и игра",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" }
+}
